@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DanieleTursi
+- 👀 I’m interested in frontend.
+- 🌱 I’m currently learning Reactjs
+- 💞️ I’m looking to collaborate on both small and big projects.
+- 📫 How to reach me: tursidaniele@gmail.com
