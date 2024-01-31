@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanieleTursi
-- 👀 I’m interested in frontend.
+- 👀 I’m interested in connecting with people to join our projects.
 - 🌱 I’m currently learning Nextjs
 - 💞️ GNDTdigital co-founder and software engineer.
 - 📫 How to reach me: tursidaniele@gmail.com
